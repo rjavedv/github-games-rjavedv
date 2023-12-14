@@ -147,7 +147,8 @@
         if ((x < 0) || (x >= nx) || (y < 0) || (y >= ny) || getBlock(x,y))
           result = true;
       });
-      return result;
+      //return result;
+      return true;
     }
 
     function unoccupied(type, x, y, dir) {
