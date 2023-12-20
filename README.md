@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: https://qelnggithubdevtraining.github.io/github-games-rjavedv/
+You can play the game at: https://rjavedv.github.io/github-games-rjavedv/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
